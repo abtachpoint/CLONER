@@ -1,2 +1,0 @@
-import maxi
-maxi.facebookweb()
